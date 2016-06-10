@@ -1,1 +1,1 @@
-# amazon
+# wpc-amazon
